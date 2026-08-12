@@ -1,0 +1,48 @@
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# Maven / Java
+# =========================
+**/target/
+
+# =========================
+# Eclipse / STS
+# =========================
+.metadata/
+.classpath
+.project
+.settings/
+.factorypath
+.sts4-cache
+
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Spring Boot local config
+# =========================
+**/application.properties
+
+# =========================
+# Node / React
+# =========================
+frontend/node_modules/
+frontend/dist/
+
+# =========================
+# Environment files
+# =========================
+.env
+.env.*
+!.env.example/.metadata/
