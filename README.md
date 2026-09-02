@@ -1,5 +1,3 @@
-
-````markdown
 # 💼 Job Portal With Automation
 
 A scalable **microservice-based Job Portal application** built using **React, Node.js, Spring Boot, FastAPI, .NET, and MySQL**. The application provides separate functionality for **Job Seekers and Employers**, along with AI chatbot support and automated job-alert notifications.
@@ -454,15 +452,9 @@ The backend validates the user's authentication and authorization before allowin
 * SMTP email notification using MailKit.
 * Automated job alerts using Spring Scheduler.
 * Docker containerization.
-* Docker Compose deployment.
-* Docker bridge networking.
-* Health checks and `depends_on` for service startup.
 
 ---
 
-# 🎤 Project in One Paragraph
-
-> **My project is a microservice-based Job Portal application developed for two types of users, Job Seekers and Employers. I used React for the frontend, Node.js as an API Gateway, and Spring Boot as the main backend for business logic and database operations. MySQL is used for data persistence, and I implemented Spring Security with JWT for authentication and authorization. I also developed an AI-based chatbot using FastAPI and Groq API, and a separate .NET microservice for sending registration-success emails through SMTP. For automation, I used Spring Scheduler to process job-alert notifications. Finally, I containerized the services using Docker and used Docker Compose to build, network, and run the complete application.**
 
 ```
 ```
